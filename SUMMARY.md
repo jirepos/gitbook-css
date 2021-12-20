@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [CSS 정리](README.md)
 * [CSS 컨텐트 정렬](css.md)
 * [Flex](flex.md)
 * [Flex를 이용한 입력폼 만들기](flex-1.md)
